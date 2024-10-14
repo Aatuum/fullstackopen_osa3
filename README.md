@@ -1,1 +1,1 @@
-[# fullstackopen_osa3](https://github.com/Aatuum/puhelinluettelo_backend)
+Link to Render repository: https://github.com/Aatuum/puhelinluettelo_backend
